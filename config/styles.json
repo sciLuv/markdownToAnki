@@ -1,0 +1,5 @@
+{
+    "front_style": "font-size: 32px; color: #4CAF50; text-align: left;",
+    "pinyin_style": "font-size: 26px; color: #FF4500; font-weight: bold;",
+    "translation_style": "font-size: 20px; color: #00FF00;"
+}
