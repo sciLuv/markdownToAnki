@@ -5,7 +5,7 @@ Conversion de fichiers Markdown en cartes Anki pour l'apprentissage du chinois
 J'apprend le chinois depuis quelques mois et je cherchais un moyen efficace de mémoriser du vocabulaire. Une dame dans le métro m'a parler d'anki, une application open source spécialement faite pour l'apprentissage des langues et la mémorisation de ces dernieres.
 J'avais de nombreuses notes stockées en markdown dans **Obsidian**, j'ai donc voulu automatiser la conversion de ces informations en cartes de révision anki. 
 
-Ce script a donc été conçu pour les apprenants du chinois (donc je fais parti) et particulièrement ceux qui utilisent des fichiers Markdown pour organiser leur vocabulaire, et qui cherchent à les exploiter dans Anki pour améliorer leur apprentissage.
+Ce script a donc été conçu pour les apprenants du chinois (donc je fais partie) et particulièrement ceux qui utilisent des fichiers Markdown pour organiser leur vocabulaire, et qui cherchent à les exploiter dans Anki pour améliorer leur apprentissage.
 
 Le script lit les fichiers Markdown, extrait les mots chinois, pinyin, traductions et fichiers audio associés, puis les importe automatiquement dans Anki sous forme de cartes organisées en decks. Il est idéal pour ceux qui souhaitent tirer le meilleur parti de leurs notes tout en optimisant leur mémorisation grâce à Anki.
 
