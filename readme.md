@@ -1,4 +1,4 @@
-# Documentation : Conversion de fichiers Markdown en cartes Anki pour l'apprentissage du chinois
+Conversion de fichiers Markdown en cartes Anki pour l'apprentissage du chinois
 
 ## Contexte
 
